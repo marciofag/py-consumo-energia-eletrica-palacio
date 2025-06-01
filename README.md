@@ -25,3 +25,5 @@ Explorar os dados de consumo de energia elétrica do Palácio do Jaburu entre 20
     - Gráfico de dispersão: correlação entre consumo e valor da fatura
 
     - Gráfico interativo (Plotly): consumo e valor com navegação por data
+
+📈 Ver análise: [abrir](https://github.com/marciofag/py-consumo-energia-eletrica-palacio/blob/main/consumo_energia_eletrica_palacio.ipynb)
